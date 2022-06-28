@@ -5,3 +5,4 @@ This project is carried out with the help heart dataset from kaggale. In this pr
 
 ![Capture](https://user-images.githubusercontent.com/92075957/176217002-c099668f-f12c-48fa-ab2c-6ecf767c621e.PNG)
 
+# Further the performance of the classifiers can be improved with the help of hyperparameter tuing which was already discussed in previous projects. Once go to previous projects and follow the steps for tuning the models for better performance.
